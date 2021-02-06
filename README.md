@@ -18,7 +18,7 @@ Player system plays wav files from sd card randomly. Project is coded using VS c
 
 ## Schematics pic
 
-<img raw=true src = “RAP_bb.jpg” width = 200 height = 200></img>
+<img raw=true src = “RAP_bb.jpg”></img>
 ![](RAP_bb.jpg)
 
 ## Arduino Nano pins
