@@ -16,6 +16,10 @@ Player system plays wav files from sd card randomly. Project is coded using VS c
 - Wires, button and switch
 - Case
 
+## Schematics pic
+
+<img src = “RAP_bb.jpg” width = 200 height = 200>
+
 ## Arduino Nano pins
 
 - D6      Button
