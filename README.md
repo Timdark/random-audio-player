@@ -18,7 +18,7 @@ Player system plays wav files from sd card randomly. Project is coded using VS c
 
 ## Schematics pic
 
-<img align="left" width="100" height="100" src=“https://user-images.githubusercontent.com/32216377/107125233-52a55880-68b1-11eb-9156-35a402430806.jpg” />
+<img src=“https://user-images.githubusercontent.com/32216377/107125233-52a55880-68b1-11eb-9156-35a402430806.jpg”>
 
 ## Arduino Nano pins
 
