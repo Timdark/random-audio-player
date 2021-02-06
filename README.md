@@ -7,10 +7,6 @@ Player system plays wav files from sd card randomly. Project is coded using VS c
 - Plays .wav files randomly from sd card
 - Small physical size
 
-## Pictures
-
-- Coming soon
-
 ## Hardware
 
 - Arduino Nano
@@ -19,6 +15,17 @@ Player system plays wav files from sd card randomly. Project is coded using VS c
 - SD card reader
 - Wires, button and switch
 - Case
+
+## Arduino Nano pins
+
+- D6      Button
+- D9      AMP +
+- Vin     Power
+- GND     GND
+- D4      CS
+- D11     MOSI
+- D12     MISO
+- D13     SCK
 
 ## Libraries
 
